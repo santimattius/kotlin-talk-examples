@@ -1,34 +1,10 @@
 package concurrency.suspended
 
-import kotlinx.coroutines.*
-import kotlin.system.*
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.runBlocking
 
 fun main() = runBlocking {
 
-    //sync
-//    val time = measureTimeMillis {
-//        val one = doSomethingUsefulOne()
-//        val two = doSomethingUsefulTwo()
-//        println("The answer is ${one + two}")
-//    }
-//    println("Completed in $time ms")
-    //async
-//    val time = measureTimeMillis {
-//        val one = async { doSomethingUsefulOne() }
-//        val two = async { doSomethingUsefulTwo() }
-//        println("The answer is ${one.await() + two.await()}")
-//    }
-//    println("Completed in $time ms")
-
-    //async - lazy
-    val time = measureTimeMillis {
-        val one = async(start = CoroutineStart.LAZY) { doSomethingUsefulOne() }
-        val two = async(start = CoroutineStart.LAZY) { doSomethingUsefulTwo() }
-        one.start()
-        one.start()
-        println("The answer is ${one.await() + two.await()}")
-    }
-    println("Completed in $time ms")
 
 }
 

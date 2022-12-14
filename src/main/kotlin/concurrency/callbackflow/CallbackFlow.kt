@@ -1,10 +1,6 @@
 package concurrency.callbackflow
 
 import concurrency.flows.Note
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.callbackFlow
-import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
 class NoteViewModel {
@@ -21,17 +17,8 @@ class NoteViewModel {
     }
 }
 
-fun NoteViewModel.updateAsFlow(): Flow<Note> = callbackFlow {
-    update { trySend(it) }
-//    awaitClose {  }
-}
-
 fun main(): Unit = runBlocking {
 
     val viewModel = NoteViewModel()
-   launch(Dispatchers.Default) {
-       viewModel.updateAsFlow().collect {
-           println(it)
-       }
-   }
+
 }
