@@ -8,14 +8,7 @@ fun main() {
 
     val (nick, pass) = user
 
-    val map = mapOf("a" to 1, "b" to 2)
+    println("NickName: $nick")
+    println("Password: $pass")
 
-    for ((k, v) in map) {
-        println("$k - $v")
-    }
-
-    val pairValue = pairValue()
-//    pairValue.component1()
 }
-
-fun pairValue(): Pair<String, Int> = "c" to 3
