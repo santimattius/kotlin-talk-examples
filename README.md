@@ -6,7 +6,7 @@ Kotlin example: basics, concurrency, advanced and interoperability
 
 ## Contenido
 
-### Conceptos básicos de Kotlin.
+### [Conceptos básicos de Kotlin](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/basics)
 
 - Basic syntax
 - Tipos
@@ -18,7 +18,7 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Colecciones
 - Rangos
 
-### Concurrencia en Kotlin.
+### [Concurrencia en Kotlin](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/concurrency)
 
 - ¿Qué son las coroutines?
 - Funciones suspend
@@ -33,7 +33,7 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Channel
 - Callback Flow
 
-### Conceptos avanzados en Kotlin
+### [Conceptos avanzados en Kotlin](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/advanced)
 
 - Scope functions
 - Higher-order functions
@@ -54,7 +54,7 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Type Alias
 - Contracts
 
-### Interoperabilidad con Java
+### [Interoperabilidad con Java](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/interoperability)
 
 - Código Java desde Kotlin
 - Funciones: Higher Order functions, Extensions, Sobrecarga, Lambdas, etc.
