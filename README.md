@@ -18,6 +18,8 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Colecciones
 - Rangos
 
+**Presentación:** [Kotlin - Conceptos básicos](https://github.com/santimattius/kotlin-talk-examples/files/10351493/Kotlin.-.Conceptos.basicos.pdf)
+
 ### [Concurrencia en Kotlin](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/concurrency)
 
 - ¿Qué son las coroutines?
@@ -32,6 +34,8 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Shared Flow
 - Channel
 - Callback Flow
+
+**Presentación:** [Kotlin - Concurrencia](https://github.com/santimattius/kotlin-talk-examples/files/10351498/Kotlin.-.Concurrencia.pdf)
 
 ### [Conceptos avanzados en Kotlin](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/advanced)
 
@@ -54,6 +58,8 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Type Alias
 - Contracts
 
+**Presentación:** [Kotlin - Avanzado](https://github.com/santimattius/kotlin-talk-examples/files/10351497/Kotlin.-.Avanzado.pdf)
+
 ### [Interoperabilidad con Java](https://github.com/santimattius/kotlin-talk-examples/tree/master/src/main/kotlin/interoperability)
 
 - Código Java desde Kotlin
@@ -65,3 +71,5 @@ Kotlin example: basics, concurrency, advanced and interoperability
 - Clases sealed
 - Funciones Inline
 - Funcionalidades no soportadas desde Java
+
+**Presentación:** [Kotlin - Interoperabilidad con Java](https://github.com/santimattius/kotlin-talk-examples/files/10351496/Kotlin.-.Interoperabilidad.con.Java.pdf)
