@@ -1,3 +1,6 @@
+![kotlin](https://user-images.githubusercontent.com/22333101/210763423-78d8c695-ca05-44eb-a6d4-7fdb9b0224a1.png)
+
+
 # Kotlin Talks Examples
 Kotlin example: basics, concurrency, advanced and interoperability 
 
