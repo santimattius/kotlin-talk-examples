@@ -10,3 +10,5 @@
 - Colecciones
 - Rangos
 
+
+**Presentación:** [Kotlin - Conceptos básicos](https://github.com/santimattius/kotlin-talk-examples/files/10351493/Kotlin.-.Conceptos.basicos.pdf)
