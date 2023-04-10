@@ -12,3 +12,6 @@
 - Shared Flow
 - Channel
 - Callback Flow
+
+
+**Presentación:** [Kotlin - Concurrencia](https://github.com/santimattius/kotlin-talk-examples/files/10351498/Kotlin.-.Concurrencia.pdf)
