@@ -21,3 +21,4 @@
   - Type Alias
   - Contracts
 
+**Presentación:** [Kotlin - Avanzado](https://github.com/santimattius/kotlin-talk-examples/files/10351497/Kotlin.-.Avanzado.pdf)
