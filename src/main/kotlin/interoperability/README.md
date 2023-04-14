@@ -9,3 +9,5 @@
 - Funciones Inline
 - Funcionalidades no soportadas desde Java
 
+
+**Presentación:** [Kotlin - Interoperabilidad con Java](https://github.com/santimattius/kotlin-talk-examples/files/10351496/Kotlin.-.Interoperabilidad.con.Java.pdf)
